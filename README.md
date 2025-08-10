@@ -65,3 +65,6 @@ The application is designed to be deployed on platforms that support a full Node
 4.  **Run in development**: `npm run dev` to start the client and server.
 5.  **Build for production**: `npm run build` to compile the client and server code.
 6.  **Start in production**: `npm run start` to serve the production build.
+
+
+https://graceful-kangaroo-cf2ac8.netlify.app/
