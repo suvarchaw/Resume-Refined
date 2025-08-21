@@ -50,12 +50,6 @@ The application is built with a modern full-stack architecture.
 
 The application is designed to be deployed on platforms that support a full Node.js runtime environment, as the backend handles file processing and AI API calls.
 
-**Recommended Platforms**:
-* **Replit Deployments**: This is the easiest method as the project is optimized for Replit's full-stack environment. Just click the "Deploy" button and choose "Autoscale".
-* **Vercel**: Supports full-stack applications and automatically handles both the frontend and backend.
-* **Railway**: Provides a full Node.js runtime with file system access, which is necessary for file processing.
-
-**Netlify is not a recommended platform for this project** because it's designed for static sites and serverless functions, which cannot support the full Express.js server, file uploads, and server-side PDF processing required by this application.
 
 ## Getting Started
 
